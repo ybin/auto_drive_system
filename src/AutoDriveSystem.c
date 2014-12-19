@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include "AutoDriveSystem.h"
 #include "Car.h"
 
